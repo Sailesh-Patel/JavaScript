@@ -11,13 +11,13 @@ age = 30;
 console.log(age);
 
 // use ' or " to add text 
-let name = 'Sailesh'
+let name = 'Sailesh';
 
-console.log(name)
+console.log(name);
 
-name = 'Streets'
+name = 'Streets';
 
-console.log(name)
+console.log(name);
 
 // false is a special key word which can not be used for anything else
 let muppet = false;
@@ -28,22 +28,26 @@ muppet = true;
 
 console.log(muppet)
 
-let demo
+let demo;
 // underfined as NEVER HAD A VALUE
-console.log(demo)
+console.log(demo);
 
 demo = null;
 
-console.log(demo)
+console.log(demo);
 // use typeof to interrogate what type a variable is
-console.log(typeof muppet)
+console.log(typeof muppet);
+console.log(typeof age);
+console.log(typeof name);
 
-age = 'Patel'
+age = 'Patel';
+muppet = 27;
 
+console.log(muppet);
 console.log(age);
 
 //Strech 
-age = 31
+age = 31;
 
 console.log(age);
 
@@ -51,6 +55,7 @@ const PI = 3.14;
 
 console.log(PI);
 
-PI = 3.16
+PI = 3.16;
 
 console.log(PI);
+
